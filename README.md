@@ -4,54 +4,35 @@
 
 <p align='justify'>
 A Front-End Developer is a professional responsible for designing and implementing the user interface (UI) of a website or web application. Their primary focus is on creating a visually appealing and functional interface that enhances the user experience. Here is a general description of the roles and responsibilities of a Front-End Developer:
-
 Web Development Languages:
-
 Proficient in HTML, CSS, and JavaScript to create responsive and dynamic user interfaces.
 Knowledge of modern front-end frameworks/libraries such as React, Angular, or Vue.js.
 Cross-Browser Compatibility:
-
 Ensure that the web applications work seamlessly across different browsers and devices.
 Responsive Design:
-
 Implement responsive design principles to ensure optimal user experience across various screen sizes.
 User Interface (UI) Design:
-
 Collaborate with UI/UX designers to translate design mockups into functional web pages.
 Pay attention to details related to typography, color schemes, and overall aesthetic appeal.
 Performance Optimization:
-
 Optimize web pages for speed and efficiency to ensure fast loading times.
 Testing and Debugging:
-
 Conduct thorough testing of the front-end code to identify and fix bugs or issues.
 Collaborate with back-end developers to ensure seamless integration between front-end and back-end systems.
 Version Control/Git:
-
 Use version control systems, such as Git, to manage and track changes in the codebase.
 Collaboration:
-
 Work closely with back-end developers, designers, and other stakeholders to ensure a cohesive and integrated development process.
 Continuous Learning:
-
 Stay updated on industry trends, new technologies, and best practices in front-end development.
 Documentation:
-
 Document the codebase and any changes made for the purpose of future reference and collaboration.
 Problem Solving:
-
 Troubleshoot and resolve issues related to front-end development, and provide innovative solutions to technical challenges.
 Communication Skills:
-
 Effectively communicate technical concepts and ideas to both technical and non-technical team members.
-Front-End Developers play a crucial role in creating a positive user experience by combining technical skills with a creative and detail-oriented approach to design. They are instrumental in bringing the visual and interactive elements of a website or web application to life.
-
-</p>
-
-<br>
-
+Front-end developers play a crucial role in creating a positive user experience by combining technical skills with a creative and detail-oriented approach to design. They are instrumental in bringing the visual and interactive elements of a website or web application to life.</p><br>
 # 💻 Tech Stack:
-
 <div align='center'>
 
 <br>
